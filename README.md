@@ -1,3 +1,5 @@
+![Insightiv Logo](http://web.mit.edu/audace/www/insightiv_logo_1.png)
+
 # insightiv_external_repositories
 
 - [Insightiv DeepLoyd](https://github.com/heyaudace/deeployd) - Contributors: Audace Nakeshimana, Frank Kwizera, Muhire Arsene
